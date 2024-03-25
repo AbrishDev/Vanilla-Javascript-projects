@@ -1,1 +1,1 @@
-Vanilla_javascript_side_project
+**Vanilla_javascript_side_project**
